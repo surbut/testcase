@@ -1,0 +1,9 @@
+Package: testpackage
+Type: Package
+Title: This must be upper-case
+Version: 1.0
+Date: 2015-12-11
+Author: Sarah Urbut
+Maintainer: <surbut@uchicago.edu>
+Description: This is a description of what the package does
+License: What license is it under?
